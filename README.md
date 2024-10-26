@@ -4,28 +4,27 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Codelum
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aaron M Sabu - College of engineering Karunagappally
+- Member 2: Abla Hussain -  College of engineering Karunagappally
+- Member 3: Arunima Pillai - College of engineering Karunagappally
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project is made to change hectic and boring college life to fun, Its a fart counter with leaderboard and achievements
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The fact that we waste lot of our farts and we thought about making it fun
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A very entertaining and fun app to count your fart and compare it with your peers who are anonymous
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- HTML and CSS
 - [Libraries used]
 - [Tools used]
 
