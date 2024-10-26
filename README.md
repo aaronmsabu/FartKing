@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# FartKing 🎯
 
 
 ## Basic Details
@@ -25,16 +25,12 @@ A very entertaining and fun app to count your fart and compare it with your peer
 ### Technologies/Components Used
 For Software:
 - HTML and CSS
-- [Libraries used]
-- [Tools used]
+- VS code
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+For Software: 
 # Installation
 [commands]
 
@@ -86,9 +82,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aaron M Sabu: [Specific contributions]
+- Abla Hussain: [Specific contributions]
+- Arunima Pillai: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
